@@ -1,5 +1,6 @@
 name: Create Cypress Report
 on:
+  dispatch:
   push:
     branches:
       - main
